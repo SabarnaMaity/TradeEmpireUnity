@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "firebase_url":"https://tradeempire-441f2-default-rtdb.firebaseio.com/",
+    "project_number": "476388463876",
+    "project_id": "tradeempire-441f2",
+    "storage_bucket": "tradeempire-441f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476388463876:android:da1f758e9f0a71c0582c51",
+        "android_client_info": {
+          "package_name": "com.Gamewise.TradeEmpire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqihL4gSvddgDlaXSuWBtgw8iVGe8ms4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
